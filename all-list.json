@@ -1,6 +1,24 @@
 [
     {
         "id": 1,
+        "title": "Unlisted App Distribution: Solusi Membagikan Aplikasi Secara Privat",
+        "url": "https://ibnunaufal.medium.com/unlisted-app-distribution-solusi-membagikan-aplikasi-secara-privat-f9ae035e3dc7",
+        "created_at": "2024-04-11"
+    },
+    {
+        "id": 2,
+        "title": "Panduan singkat menggunakan Flavor atau Build Variant pada Kotlin",
+        "url": "https://ibnunaufal.medium.com/panduan-singkat-menggunakan-flavor-atau-build-variant-pada-kotlin-94d2cfb4b702",
+        "created_at": "2023-09-23"
+    },
+    {
+        "id": 3,
+        "title": "Mendapatkan estimasi durasi baca sebuah artikel",
+        "url": "https://ibnunaufal.medium.com/mendapatkan-estimasi-durasi-baca-sebuah-artikel-84de3da0c1d6",
+        "created_at": "2023-08-07"
+    },
+    {
+        "id": 4,
         "title": "Stop procrastinating, do it now!",
         "url": "2023-08-07-001.md",
         "created_at": "2023-08-07"
